@@ -1,0 +1,7 @@
+.venv/*
+full_papers/*
+latex_papers/*
+abstracts/*
+.vscode/*
+__pycache__/*
+.env

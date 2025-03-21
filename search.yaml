@@ -1,0 +1,22 @@
+valid_options:
+  sort_by_options: ["Relevance", "LastUpdatedDate", "SubmittedDate"]
+  category_options: ["cs.CV", "cs.AI", "cs.LG", "eess.IV"]
+
+
+
+download_topics:
+  topic: "PCB defect detection"
+  category: "eess.IV"
+  sort_by: "Relevance"
+  max_results: 3
+  download_path: "./downloaded_papers"
+  save_md_file_path: "./converted_md_papers"
+
+# Example:
+# download_topics:
+#   topic: "Optical Flow"
+#   category: "cs.CV"  
+#   sort_by: "Relevance"
+#   max_results: 3
+#   download_path: "./downloaded_papers"
+#   save_md_file_path: "./converted_md_papers"
