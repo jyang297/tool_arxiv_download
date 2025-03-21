@@ -5,3 +5,4 @@ abstracts/*
 .vscode/*
 __pycache__/*
 .env
+abstracts_json/*

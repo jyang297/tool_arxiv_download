@@ -5,12 +5,16 @@ valid_options:
 
 
 download_topics:
-  topic: "PCB defect detection"
-  category: "eess.IV"
+  topic: "PCB failure analysis"
+  category: 
   sort_by: "Relevance"
-  max_results: 3
+  max_results: 80
   download_path: "./downloaded_papers"
   save_md_file_path: "./converted_md_papers"
+  save_jsonl_path: "./abstraction_json/PCBFailureAnalysis.jsonl"
+  save_txt: False
+  save_jsonl: True
+  continueJson: False
 
 # Example:
 # download_topics:
